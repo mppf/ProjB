@@ -1,8 +1,8 @@
 
 [brick]
 name = "ProjB"
-version = "0.1.0"
+version = "0.1.1"
 chplVersion = "1.17.0"
-source = "https://github.com/mppf/chapel-go-boom/ProjB"
+source = "https://github.com/mppf/ProjB"
 
 [dependencies]
